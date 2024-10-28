@@ -1,6 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
 ### NAME : SHYAM R
-### REG NO : 21223040200
+### REG NO : 212223040200
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
